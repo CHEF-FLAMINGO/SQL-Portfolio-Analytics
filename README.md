@@ -25,7 +25,7 @@ I leverage my background in **Pure Mathematics**—specifically Set Theory and D
 ---
 
 ## 🛠️ Technical Toolkit
-* **Languages:** SQL (PostgreSQL, MySQL), Python (Learning)
+* **Languages:** SQL (PostgreSQL, MySQL, TSQL), Python (Learning)
 * **Mathematical Foundations:** Set Theory, Real Analysis, Discrete Mathematics
 * **Tools:** VS Code, Git/GitHub, Microsoft Excel
 
